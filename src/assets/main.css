@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  color: #2c3e50;
+  background: #181818;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
